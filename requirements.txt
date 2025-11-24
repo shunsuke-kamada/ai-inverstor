@@ -1,0 +1,19 @@
+# 基本ツール
+jupyterlab
+pandas
+numpy
+matplotlib
+seaborn
+plotly              # インタラクティブなグラフ描画用
+
+# AI・LLM連携
+google-generativeai # Gemini API SDK
+python-dotenv       # 環境変数読み込み
+langchain           # 将来的なチェーン処理用（念のため）
+chromadb            # ベクトルDB（RAG用）
+
+# データ収集・スクレイピング
+requests
+beautifulsoup4
+edinet-xbrl         # EDINETからのデータ取得・解析用ライブラリ
+pypdf               # PDF読み込み用
